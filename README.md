@@ -4,6 +4,12 @@ PARA INSTALAR ESSE BOT, POR FAVOR LEIA COM ATENÇÃO O LINK ABAIXO (E SE CASO VO
 SITE : https://www.sinhoplayer.com.br/2021/11/como-criar-um-bot-de-figurinhas-para-whatsapp.html
 -------------------------------
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/NANA-BOT)](https://repl.it/github/MagoInterior/NANA-BOT) 
+
+
+
 APÓS INSTALAR TODAS DEPENDÊNCIAS COMO NODEJS, BASTA ENTRAR NO TERMUX E DA ESSE COMANDO PARA INSTALAR A PASTA NO ARMAZENAMENTO INTERNO :
 
 ATENÇÃO: NÃO USE TERMUX DA GOOGLE PLAY, NÃO PRESTA! USE O TERMUX DESTE LINK: https://f-droid.org/repo/com.termux_118.apk
